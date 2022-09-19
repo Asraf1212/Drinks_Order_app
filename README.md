@@ -7,3 +7,6 @@ para pelanggan untuk memesan minuman dari restoran atau toko minuman manapun dan
 - flowchart.drawio
 - README.md
 - pseudocode.txt
+
+Dikerjakan Oleh :
+- ' Asraf - BE3029142'
